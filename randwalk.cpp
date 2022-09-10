@@ -1,12 +1,12 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cstdlib>
 #include <ctime>
 #include <fstream>
 #include "vect.h"
+using namespace std;
 
 int main()
 {
-    using namespace std;
     using VECTOR::Vector;
 
     ofstream file;
